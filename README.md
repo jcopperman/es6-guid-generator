@@ -1,7 +1,7 @@
 # es6-guid-generator
 
 ## About
- - Generates a unique GUID/UUID using Javascript's Crytp API
+ - Generates a unique GUID/UUID using Javascript's Crypto API
 
 ## Pre-requisites
 - Node installed
