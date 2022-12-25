@@ -4,4 +4,4 @@
 - Nodejs
 
 ## Usage
-``` node .\GenerateGUID.js ```
+In your terminal run: ``` node .\GenerateGUID.js ```
