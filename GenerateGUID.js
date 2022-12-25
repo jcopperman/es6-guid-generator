@@ -1,6 +1,7 @@
 /* Generate a random GUID/UUID using ES6 crypto API
  * and return it's value
- */
+ */ https://nodejs.org/api/crypto.html#cryptogetrandomvaluestypedarray
+ 
 var crypto = require('crypto');
 var getMessage;
 var response;
